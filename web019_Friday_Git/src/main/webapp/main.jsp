@@ -8,10 +8,8 @@
 </head>
 <body>
 
-	여기가 메인!!!!!!
-	123123
-	456456
-	789789
+	welcome-file을 main.jsp로 변경
+	0722 11:46에 git 배포 시도
 	
 </body>
 </html>
