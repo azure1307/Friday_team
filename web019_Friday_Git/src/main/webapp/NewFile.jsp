@@ -4,12 +4,11 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>새로운 JSP</title>
 </head>
 <body>
 
-	0725 작성
-	
-	
+	JSP 만들었어요
+
 </body>
 </html>
