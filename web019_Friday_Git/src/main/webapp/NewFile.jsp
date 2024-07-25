@@ -9,7 +9,8 @@
 <body>
 
 	JSP 만들었어요
-	<div>행복이 있어요</div>
+
+	<p>행복이 있어요</p>
 
 </body>
 </html>
